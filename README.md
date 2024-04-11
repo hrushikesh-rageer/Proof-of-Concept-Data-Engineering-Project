@@ -1,8 +1,8 @@
 # Proof of Concept(PoC) Data Engineering Project
 
-<p align="center">
-  ![Project Architecture](Project Architecture.png)
-</p>
+align="center">
+![Project Architecture](Project Architecture.png)
+
 
 ## Project Overview
 
