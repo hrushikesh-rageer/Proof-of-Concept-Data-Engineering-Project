@@ -1,7 +1,7 @@
 # Proof of Concept(PoC) Data Engineering Project
 
 <p align="center">
-  ![Image Description](Project Architecture.png)
+  ![Project Architecture](Project Architecture.png)
 </p>
 
 ## Project Overview
