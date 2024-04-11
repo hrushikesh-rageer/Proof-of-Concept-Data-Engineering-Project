@@ -1,5 +1,4 @@
 # Proof of Concept(PoC) Data Engineering Project
-# Proof of Concept (PoC) Data Engineering Project
 
 ## Project Overview
 
