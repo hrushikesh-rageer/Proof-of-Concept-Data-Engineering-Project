@@ -1,5 +1,9 @@
 # Proof of Concept(PoC) Data Engineering Project
 
+<p align="center">
+  ![Image Description](Project Architecture.png)
+</p>
+
 ## Project Overview
 
 This project involves building a robust data pipeline to extract data from an Oracle database using Talend, storing it in AWS S3, and then loading it into Snowflake for data cleansing, validations, and transformations.
