@@ -1,8 +1,8 @@
 # Proof of Concept(PoC) Data Engineering Project
 
-align="center">
-![Project Architecture](Project Architecture.png)
-
+<p align="center">
+  ![Project Architecture](![Project Architecture](https://github.com/hrushikesh-rageer/Proof-of-Concept-PoC-Data-Engineering-Project/assets/155183580/70f4b4fe-9a86-4715-bd03-29526c163a01).png)
+</p>
 
 ## Project Overview
 
